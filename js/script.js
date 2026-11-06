@@ -27,14 +27,15 @@
       launchEyebrow: 'THE NEXT MILESTONE', launchTitle: 'Our portfolio is<br>almost ready.', launchDescription: 'A closer look at what we make, how we think, and where we’re headed.',
       days: 'DAYS', hours: 'HOURS', minutes: 'MINUTES', seconds: 'SECONDS', countdownNote: 'A new chapter, at the close of this month.',
       teamEyebrow: 'THE PEOPLE', teamTitle: 'Meet the Team', teamSubtitle: 'The people behind devzix.', skillsTitle: 'CORE SKILLS', age: 'AGE',
-      aboutEyebrow: 'BUILT AS ONE', aboutTitle: 'Why devzix?', aboutText: 'Great technology happens when disciplines meet. We bring Full-Stack Development, Backend Systems, Artificial Intelligence, Machine Learning, and Cybersecurity into one team — creating digital solutions that are scalable, secure, and built to think ahead.',
+      aboutEyebrow: 'BUILT AS ONE', aboutTitle: 'Why devzix?', aboutText: 'devzix is an independent programming team building web applications, backend systems, AI and machine-learning tools, and cybersecurity solutions. Meet the developers behind our programming projects and digital products.',
+      metaDescription: 'devzix is an independent programming team building web, backend, AI, and cybersecurity projects. Meet the developers behind our software solutions.',
       copyright: '© 2026 devzix. All rights reserved.', launched: 'devzix Portfolio is Now Live.', languageLabel: 'EN <span class="control-separator">/</span> AR', languageAria: 'Switch language to Arabic',
       themeLight: 'Switch to light mode', themeDark: 'Switch to dark mode',
       members: [
-        { id: 'mazen', name: 'Mazen Ahmed Badr', role: 'Full-Stack Developer', age: 17, image: './assets/images/team/mazen.jpg', webp: './assets/images/team/mazen.webp', alt: 'Mazen Ahmed Badr, Full-Stack Developer', skills: ['Modern Web Architecture & Frontend Engineering', 'RESTful APIs & Backend Integration', 'Database Management & State Handling', 'Performance Optimization & Responsive UI'] },
-        { id: 'yassen', name: 'Yassen Sabry Elawamy', role: 'Back-End Developer', age: 18, image: './assets/images/team/yassen.jpg', webp: './assets/images/team/yassen.webp', alt: 'Yassen Sabry Elawamy, Back-End Developer', skills: ['Server-Side Architecture & API Development', 'Database Design & Query Optimization', 'Authentication & System Security', 'Microservices & Cloud Infrastructure'] },
-        { id: 'ahmed', name: 'Ahmed Helmy El-Attar', role: 'AI Developer & Machine Learning Engineer', age: 16, image: './assets/images/team/ahmed.jpg', webp: './assets/images/team/ahmed.webp', alt: 'Ahmed Helmy El-Attar, AI Developer', skills: ['Predictive AI & Dynamic Dispatch Algorithms', 'Machine Learning Model Deployment', 'Real-Time Data Processing & Telemetry', 'Neural Networks & Computer Vision'] },
-        { id: 'mai', name: 'Mai Magdy Mahmoud', role: 'Cybersecurity & Penetration Testing Engineer', age: 22, image: './assets/images/team/mai.jpg', webp: './assets/images/team/mai.webp', alt: 'Mai Magdy Mahmoud, Cybersecurity Engineer', skills: ['Penetration Testing & Vulnerability Assessment', 'Zero-Trust Network Architecture', 'Encrypted Protocols & System Hardening', 'Infrastructure Security & Threat Defense'] }
+        { id: 'mazen', name: 'Mazen Ahmed Bakr Badr', role: 'Full-Stack Developer', age: 17, image: './assets/images/team/mazen.jpg', webp: './assets/images/team/mazen.webp', alt: 'Mazen Ahmed Bakr Badr, Full-Stack Developer', skills: ['Modern Web Architecture & Frontend Engineering', 'RESTful APIs & Backend Integration', 'Database Management & State Handling', 'Performance Optimization & Responsive UI'] },
+        { id: 'yassen', name: 'Yassin Sabry Al Awamy', role: 'Back-End Developer', age: 18, image: './assets/images/team/yassen.jpg', webp: './assets/images/team/yassen.webp', alt: 'Yassin Sabry Al Awamy, Back-End Developer', skills: ['Server-Side Architecture & API Development', 'Database Design & Query Optimization', 'Authentication & System Security', 'Microservices & Cloud Infrastructure'] },
+        { id: 'ahmed', name: 'Ahmed Helmy Eletr', role: 'AI Developer & Machine Learning Engineer', age: 16, image: './assets/images/team/ahmed.png', alt: 'Ahmed Helmy Eletr, AI Developer', skills: ['Predictive AI & Dynamic Dispatch Algorithms', 'Machine Learning Model Deployment', 'Real-Time Data Processing & Telemetry', 'Neural Networks & Computer Vision'] },
+        { id: 'mai', name: 'Mai Magdy Mahmoud', role: 'Cybersecurity & Penetration Testing Engineer', age: 22, image: './assets/images/team/mai.jpeg', alt: 'Mai Magdy Mahmoud, Cybersecurity Engineer', skills: ['Penetration Testing & Vulnerability Assessment', 'Zero-Trust Network Architecture', 'Encrypted Protocols & System Hardening', 'Infrastructure Security & Threat Defense'] }
       ]
     },
     ar: {
@@ -44,14 +45,15 @@
       launchEyebrow: 'محطتنا القادمة', launchTitle: 'ملف أعمالنا<br>على وشك الوصول.', launchDescription: 'اكتشفوا ما نبنيه، وكيف نفكر، وإلى أين نتجه.',
       days: 'أيام', hours: 'ساعات', minutes: 'دقائق', seconds: 'ثوانٍ', countdownNote: 'فصل جديد يبدأ مع نهاية هذا الشهر.',
       teamEyebrow: 'أفراد الفريق', teamTitle: 'تعرّف على الفريق', teamSubtitle: 'الأشخاص وراء devzix.', skillsTitle: 'المهارات الأساسية', age: 'العمر',
-      aboutEyebrow: 'فريق واحد، رؤية واحدة', aboutTitle: 'لماذا devzix؟', aboutText: 'تبدأ التكنولوجيا المميزة حين تلتقي التخصصات. نجمع تطوير الويب المتكامل والأنظمة الخلفية والذكاء الاصطناعي وتعلّم الآلة والأمن السيبراني في فريق واحد، لنبتكر حلولًا رقمية قابلة للتوسع وآمنة وجاهزة للمستقبل.',
+      aboutEyebrow: 'فريق واحد، رؤية واحدة', aboutTitle: 'لماذا devzix؟', aboutText: 'ديفزيكس تيم برمجة مستقل يبني مواقع وتطبيقات وأنظمة خلفية وحلولًا في الذكاء الاصطناعي والأمن السيبراني. تعرّف على المبرمجين ومشاريع البرمجة التي يطوّرها الفريق.',
+      metaDescription: 'ديفزيكس تيم برمجة مستقل يطوّر مواقع وتطبيقات ومشاريع برمجية في الأنظمة الخلفية والذكاء الاصطناعي والأمن السيبراني.',
       copyright: '© 2026 devzix. جميع الحقوق محفوظة.', launched: 'ملف أعمال devzix أصبح متاحًا الآن.', languageLabel: 'العربية <span class="control-separator">/</span> EN', languageAria: 'Switch language to English',
       themeLight: 'التبديل إلى الوضع الفاتح', themeDark: 'التبديل إلى الوضع الداكن',
       members: [
-        { id: 'mazen', name: 'Mazen Ahmed Badr', role: 'مطوّر ويب متكامل', age: 17, image: './assets/images/team/mazen.jpg', webp: './assets/images/team/mazen.webp', alt: 'Mazen Ahmed Badr، مطوّر ويب متكامل', skills: ['هندسة الويب الحديثة وتطوير الواجهات', 'واجهات RESTful والتكامل الخلفي', 'إدارة قواعد البيانات وحالة التطبيق', 'تحسين الأداء وتصميم واجهات متجاوبة'] },
-        { id: 'yassen', name: 'Yassen Sabry Elawamy', role: 'مطوّر أنظمة خلفية', age: 18, image: './assets/images/team/yassen.jpg', webp: './assets/images/team/yassen.webp', alt: 'Yassen Sabry Elawamy، مطوّر أنظمة خلفية', skills: ['هندسة الخوادم وتطوير واجهات API', 'تصميم قواعد البيانات وتحسين الاستعلامات', 'المصادقة وأمن الأنظمة', 'الخدمات المصغرة والبنية السحابية'] },
-        { id: 'ahmed', name: 'Ahmed Helmy El-Attar', role: 'مطوّر ذكاء اصطناعي وتعلّم آلة', age: 16, image: './assets/images/team/ahmed.jpg', webp: './assets/images/team/ahmed.webp', alt: 'Ahmed Helmy El-Attar، مطوّر ذكاء اصطناعي', skills: ['الذكاء التنبؤي وخوارزميات التوجيه', 'نشر نماذج تعلّم الآلة', 'معالجة البيانات الفورية والقياس عن بُعد', 'الشبكات العصبية والرؤية الحاسوبية'] },
-        { id: 'mai', name: 'Mai Magdy Mahmoud', role: 'مهندسة أمن سيبراني واختبار اختراق', age: 22, image: './assets/images/team/mai.jpg', webp: './assets/images/team/mai.webp', alt: 'Mai Magdy Mahmoud، مهندسة أمن سيبراني', skills: ['اختبار الاختراق وتقييم الثغرات', 'بنية الشبكات القائمة على انعدام الثقة', 'البروتوكولات المشفرة وتحصين الأنظمة', 'أمن البنية التحتية والدفاع ضد التهديدات'] }
+        { id: 'mazen', name: 'مازن أحمد بكر بدر', role: 'مطوّر ويب متكامل', age: 17, image: './assets/images/team/mazen.jpg', webp: './assets/images/team/mazen.webp', alt: 'مازن أحمد بكر بدر، مطوّر ويب متكامل', skills: ['هندسة الويب الحديثة وتطوير الواجهات', 'واجهات RESTful والتكامل الخلفي', 'إدارة قواعد البيانات وحالة التطبيق', 'تحسين الأداء وتصميم واجهات متجاوبة'] },
+        { id: 'yassen', name: 'ياسين صبري العوامي', role: 'مطوّر أنظمة خلفية', age: 18, image: './assets/images/team/yassen.jpg', webp: './assets/images/team/yassen.webp', alt: 'ياسين صبري العوامي، مطوّر أنظمة خلفية', skills: ['هندسة الخوادم وتطوير واجهات API', 'تصميم قواعد البيانات وتحسين الاستعلامات', 'المصادقة وأمن الأنظمة', 'الخدمات المصغرة والبنية السحابية'] },
+        { id: 'ahmed', name: 'أحمد حلمي العتر', role: 'مطوّر ذكاء اصطناعي وتعلّم آلة', age: 16, image: './assets/images/team/ahmed.png', alt: 'أحمد حلمي العتر، مطوّر ذكاء اصطناعي', skills: ['الذكاء التنبؤي وخوارزميات التوجيه', 'نشر نماذج تعلّم الآلة', 'معالجة البيانات الفورية والقياس عن بُعد', 'الشبكات العصبية والرؤية الحاسوبية'] },
+        { id: 'mai', name: 'مي مجدي محمود', role: 'مهندسة أمن سيبراني واختبار اختراق', age: 22, image: './assets/images/team/mai.jpeg', alt: 'مي مجدي محمود، مهندسة أمن سيبراني', skills: ['اختبار الاختراق وتقييم الثغرات', 'بنية الشبكات القائمة على انعدام الثقة', 'البروتوكولات المشفرة وتحصين الأنظمة', 'أمن البنية التحتية والدفاع ضد التهديدات'] }
       ]
     }
   };
@@ -80,7 +82,7 @@
     card.dataset.member = member.id;
     card.setAttribute('aria-label', member.name + ', ' + member.role);
     card.innerHTML = '<img class="team-card-logo logo-light" src="./assets/images/logo-emblem-light.png" alt="Devzix logo" width="640" height="492"><img class="team-card-logo logo-dark" src="./assets/images/logo-emblem-dark.png" alt="Devzix logo" width="540" height="450">' +
-      '<div class="member-top"><div class="member-photo-wrap"><picture class="member-photo-picture"><source srcset="' + member.webp + '" type="image/webp"><img class="member-photo" src="' + member.image + '" alt="' + member.alt + '" width="400" height="400" decoding="async" fetchpriority="high" loading="eager"></picture><span class="orbit-track" aria-hidden="true"></span><span class="orbit-satellite" aria-hidden="true"></span><span class="member-role-icon">' + icons[member.id] + '</span></div></div>' +
+      '<div class="member-top"><div class="member-photo-wrap"><picture class="member-photo-picture">' + (member.webp ? '<source srcset="' + member.webp + '" type="image/webp">' : '') + '<img class="member-photo" src="' + member.image + '" alt="' + member.alt + '" width="400" height="400" decoding="async" fetchpriority="high" loading="eager"></picture><span class="orbit-track" aria-hidden="true"></span><span class="orbit-satellite" aria-hidden="true"></span><span class="member-role-icon">' + icons[member.id] + '</span></div></div>' +
       '<div class="member-head"><h3 class="member-name">' + member.name + '</h3><p class="member-title">' + member.role + '</p><span class="age-badge">' + ageIcon + '<span>' + words.age + ' ' + member.age + '</span></span></div>' +
       '<div class="card-divider"></div><h4 class="skills-title">' + words.skillsTitle + '</h4><ul class="skills-list">' + member.skills.map(function (skill) { return '<li>' + skill + '</li>'; }).join('') + '</ul>';
     return card;
@@ -104,7 +106,10 @@
       button.setAttribute('aria-pressed', String(button.dataset.lang === language));
     });
     themeButton.setAttribute('aria-label', document.body.classList.contains('light-mode') ? words.themeDark : words.themeLight);
-    document.title = language === 'ar' ? 'devzix — الفريق' : 'devzix — Team';
+    document.title = language === 'ar' ? 'devzix — فريق برمجة' : 'devzix — Programming Team';
+    document.querySelector('meta[name="description"]').setAttribute('content', words.metaDescription);
+    document.querySelector('meta[property="og:title"]').setAttribute('content', document.title);
+    document.querySelector('meta[property="og:description"]').setAttribute('content', words.metaDescription);
     grid.replaceChildren.apply(grid, words.members.map(function (member, index) { return makeCard(member, index, words); }));
     observeReveals();
     savePreference('devzix-language', language);
